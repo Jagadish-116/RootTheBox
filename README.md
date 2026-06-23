@@ -55,13 +55,13 @@ cd RootTheBox
 
 ### 2. Set Up a Virtual Environment (Recommended)
 
-## Windows
+#### Windows
 ```text
 python -m venv venv
 .\venv\Scripts\activate
 ```
 
-## Linux/macOS
+#### Linux/macOS
 ``` text
 python3 -m venv venv
 source venv/bin/activate
@@ -88,9 +88,9 @@ python app.py
 
 Open your browser and navigate to http://127.0.0.1:5000 (or the port specified in your console) to start hacking!
 
-# 🎯 Supported Exploitation Tracks (Current & Incoming)
+## 🎯 Supported Exploitation Tracks (Current & Incoming)
 
-## Linux Privilege Escalation
+### Linux Privilege Escalation
 
 [x] Abusing SUID/SGID Flags: Finding and exploiting misconfigured system binaries (e.g., cp, nano).
 
@@ -98,14 +98,14 @@ Open your browser and navigate to http://127.0.0.1:5000 (or the port specified i
 
 [ ] Wildcard Cron Jobs: Explaining cron job hijacking via broad wildcard executions.
 
-## Windows Privilege Escalation
+### Windows Privilege Escalation
 
 [ ] Unquoted Service Paths: Exploiting spaces in execution paths with weak write permissions.
 
 [ ] AlwaysInstallElevated: Forcing system-level installer privileges through registry manipulation.
 
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Want to add a new scenario? You don't need to touch the frontend!
 
@@ -117,7 +117,7 @@ Want to add a new scenario? You don't need to touch the frontend!
 
 4. Submit a Pull Request!
 
-# 📜 License
+## 📜 License
 Distributed under the MIT License.
 
 MIT License
