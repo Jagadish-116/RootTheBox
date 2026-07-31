@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-gold)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-Flask-teal)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![License](https://img.shields.io/badge/license-GNU_GPLv3-blue)](LICENSE)
 
 RootTheBox is a lightweight, web-based interactive terminal simulator designed to teach **Linux and Windows Privilege Escalation** safely and efficiently. 
 
@@ -118,26 +118,4 @@ Want to add a new scenario? You don't need to touch the frontend!
 4. Submit a Pull Request!
 
 ## 📜 License
-Distributed under the MIT License.
-
-MIT License
-
-Copyright (c) 2026 Jagadish Ponnala (A6)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Distributed under the GNU GPLv3 License. see LICENSE for more information.
